@@ -1,13 +1,23 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alok650&label=Profile%20views&color=0e75b6&style=flat" alt="Alok650" /> </p>
 
-🔭 I’m currently working on Webmeet - Text based chat application.
+🔭 I’m currently working on Stegano chat - Chat application powered with image steganography.
 
 🌱 I’m currently learning Web development and Data analysis.
 
 👯 I’m looking to collaborate on interesting projects, which have real-life applications.
 
-🤔 I’m looking for help with Tkinter resources.
+🤔 I’m looking for help with NEXTJS resources.
+
+⚡ Fun fact:
+if (coffee.Empty)
+   {
+   coffee.Refill();
+   }
+else
+   {
+   coffee.Drink();
+   }
 
 📫 How to reach me:
    1. Personal email: alokp650@gmail.com
