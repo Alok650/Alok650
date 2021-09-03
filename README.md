@@ -9,15 +9,6 @@
 
 🤔 I’m looking for help with NEXTJS resources.
 
-⚡ Fun fact:
-if (coffee.Empty)
-   {
-   coffee.Refill();
-   }
-else
-   {
-   coffee.Drink();
-   }
 
 📫 How to reach me:
    1. Personal email: alokp650@gmail.com
