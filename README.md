@@ -11,8 +11,7 @@
 
 
 📫 How to reach me:
-   1. Personal email: alokp650@gmail.com
-   2. work email: u19cs119@coed.svnit.ac.in
+   1. Email: alokp650@gmail.com
    3. Linkedin: https://www.linkedin.com/in/alok-p-200381127/
    4. Portfolio: https://alok650.github.io/
 
