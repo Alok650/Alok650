@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alok650&label=Profile%20views&color=0e75b6&style=flat" alt="Alok650" /> </p>
 
 🔭 I’m currently working on web-applications using MERN stack.
