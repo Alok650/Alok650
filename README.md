@@ -1,14 +1,11 @@
 ### Hi there  👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alok650&label=Profile%20views&color=0e75b6&style=flat" alt="Alok650" /> </p>
 
-🔭 I’m currently working on web-applications using MERN stack.
+🔭 Currently working as a Platforms Engineer at CRED, where I focus on building and optimizing CI/CD pipelines using Go, Python, and Bash. I develop Infrastructure as Code (IaC) modules with Pulumi and build an Internal Developer Portal using TypeScript and the Backstage framework.
 
-🌱 I’m involved in Web development and Data analysis.
+🌱 I specialize in Site Reliability Engineering (SRE) and Backend Engineering, improving system performance, automation, and reliability.
 
-👯 I’m looking to collaborate on interesting projects, which have real-life applications.
-
-🤔 I’m looking for help with NEXTJS resources.
-
+👯 I’m always open to collaborating on innovative projects with real-world applications, especially those involving backend engineering, DevOps, or developer tools.
 
 📫 How to reach me:
    1. Email: alokp650@gmail.com
